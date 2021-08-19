@@ -1,0 +1,63 @@
+/* google fonts pappins url */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+  
+/* for global style */
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+/* heading info */
+.heading-bg-info{
+   background-color: #264653 ;
+}
+.text-color{
+   color: #E0E0E0;
+}
+.btn-color{
+    background-color: #E76F51;
+}
+ /* main section details  */
+ .fetured-bike-info{
+           margin-bottom:110px;
+           margin-top: 82px;
+ }
+ 
+.text-fetured-title{
+   color: #E76F51;
+}
+.bike-pic{
+    filter: grayscale(100%);
+}
+/* happy client info */
+.client-info{
+    margin-top: 100px;
+    margin-bottom:40px;
+}
+.span-color{
+    color: #E76F51;
+}
+/* card info */
+.client-card img{
+  width: 149px;
+  height: 149px;
+  border-radius: 50%;
+}
+
+/* font awesome icon color */
+.fa-star{
+    color: #E77C40;
+    
+}
+/* asked info for honda cbr */
+.asked-info{
+   padding-top: 100px;
+}
+
+.cbr-info{
+    margin:120px 0px;
+}
+/* sliding part */
+.bike-cbr img{
+    width: 500px;
+    height: 400px;
+}
